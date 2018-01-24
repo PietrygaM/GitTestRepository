@@ -1,2 +1,2 @@
-# School-manager-Vol2
-a collaborative project by: Lukasz-Bdn, mateuszlichon, PietrygaM
+# GitTestRepository
+Working repository for testing git capabilities
