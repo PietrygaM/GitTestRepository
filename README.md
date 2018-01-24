@@ -1,2 +1,2 @@
 # GitTestRepository
-Working repository for testing git capabilities
+Working repository for testing git capabilities and working environments
