@@ -182,7 +182,6 @@ public class StudentController {
 		List<School> availableSchools = this.schoolRepo.findAll();
 		return availableSchools;
 	}
-	
 
 	@ModelAttribute("userSchools")
 	public List<School> userSchools() {
